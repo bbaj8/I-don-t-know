@@ -75,7 +75,7 @@ async def start_(client: Client, message: Message):
                         "👥 كروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "↬ قناة الكواد دايفل  ⟊", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "↬ قناة المطور   ⟊", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                 ],
             ]
